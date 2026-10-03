@@ -1,22 +1,30 @@
-# Langit di Antara Kita — Web Novel
+# Aldi dan Tuan Putri — Web Novel
 
-Project tugas Desain Web #1.
+Proyek Tugas Desain Web #1 — Web Novel.
 
-## Struktur
-- `index.html` — halaman utama
-- `chapter1.html` — Chapter 1
-- `chapter2.html` — Chapter 2
-- `style.css` — seluruh desain dan responsive layout
-- `script.js` — menu mobile
-- `assets/cover.png` — cover novel
+## Isi proyek
+- `index.html` — halaman utama dengan 2 chapter.
+- `style.css` — desain dan responsive mobile.
+- `script.js` — navigasi smooth scroll dan efek interaksi sederhana.
+- `images/cover.svg` — gambar cover novel.
 
 ## Cara menjalankan
-Buka `index.html` di browser.
+1. Ekstrak file ZIP.
+2. Buka folder proyek.
+3. Klik dua kali `index.html`.
+4. Website akan terbuka di browser.
 
-Website dibuat responsive sehingga dapat dibuka di HP maupun laptop.
+## Tag HTML yang digunakan
+- `<h1>`
+- `<h3>`
+- `<code>`
+- `<b>`
+- `<u>`
+- `<a>`
+- `<img>`
 
 ## GitHub
-Nama repository:
+Nama repository yang diminta:
 `belajar-html-1-webnovel`
 
-Set repository menjadi **Public** saat mengumpulkan.
+Setelah repository dibuat Public, upload seluruh isi folder proyek.
