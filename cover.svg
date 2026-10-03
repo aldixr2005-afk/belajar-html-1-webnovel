@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#3c2530"/>
+      <stop offset="55%" stop-color="#7a4d61"/>
+      <stop offset="100%" stop-color="#d39a8e"/>
+    </linearGradient>
+    <linearGradient id="sun" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffe4b8" stop-opacity=".95"/>
+      <stop offset="100%" stop-color="#f4b37e" stop-opacity=".1"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="800" height="1000" fill="url(#bg)"/>
+  <circle cx="610" cy="220" r="120" fill="url(#sun)"/>
+  <circle cx="610" cy="220" r="160" fill="none" stroke="#ffe4c5" stroke-opacity=".2" stroke-width="2"/>
+
+  <!-- school building -->
+  <rect x="0" y="620" width="800" height="380" fill="#251f25" opacity=".55"/>
+  <path d="M80 650 L400 500 L720 650 Z" fill="#33282f"/>
+  <rect x="125" y="650" width="550" height="260" rx="8" fill="#46353d"/>
+  <rect x="175" y="700" width="90" height="120" fill="#d6a1a0" opacity=".7"/>
+  <rect x="355" y="700" width="90" height="120" fill="#d6a1a0" opacity=".7"/>
+  <rect x="535" y="700" width="90" height="120" fill="#d6a1a0" opacity=".7"/>
+
+  <!-- two students -->
+  <circle cx="300" cy="520" r="38" fill="#e0a07e"/>
+  <path d="M260 515 Q300 460 340 515 L330 550 L270 550 Z" fill="#29232a"/>
+  <path d="M255 570 Q300 535 345 570 L370 710 L230 710 Z" fill="#283d57"/>
+
+  <circle cx="500" cy="500" r="38" fill="#e0a07e"/>
+  <path d="M460 495 Q500 440 540 495 L530 530 L470 530 Z" fill="#33232d"/>
+  <path d="M450 550 Q500 520 550 550 L575 710 L425 710 Z" fill="#76506c"/>
+
+  <!-- title -->
+  <text x="400" y="95" text-anchor="middle" fill="#fff5f0"
+        font-family="Georgia, serif" font-size="50" font-weight="bold">ALDI</text>
+  <text x="400" y="150" text-anchor="middle" fill="#f8d9df"
+        font-family="Georgia, serif" font-size="38">dan</text>
+  <text x="400" y="205" text-anchor="middle" fill="#fff5f0"
+        font-family="Georgia, serif" font-size="50" font-weight="bold">TUAN PUTRI</text>
+
+  <text x="400" y="900" text-anchor="middle" fill="#f7e8e5"
+        font-family="Arial, sans-serif" font-size="22" letter-spacing="5">SEBUAH KISAH DI SEKOLAH</text>
+  <text x="400" y="945" text-anchor="middle" fill="#f7e8e5"
+        font-family="Arial, sans-serif" font-size="16" opacity=".8">WEB NOVEL • 2 CHAPTER</text>
+</svg>
